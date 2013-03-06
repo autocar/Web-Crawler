@@ -1,0 +1,11 @@
+D:\Projects\Web_Crawler\Pigo\bin\Debug\Pigo.exe.config
+D:\Projects\Web_Crawler\Pigo\bin\Debug\Pigo.exe
+D:\Projects\Web_Crawler\Pigo\bin\Debug\Pigo.pdb
+D:\Projects\Web_Crawler\Pigo\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\Web_Crawler\Pigo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Web_Crawler\Pigo\obj\x86\Debug\Pigo.Form1.resources
+D:\Projects\Web_Crawler\Pigo\obj\x86\Debug\Pigo.Properties.Resources.resources
+D:\Projects\Web_Crawler\Pigo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Web_Crawler\Pigo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Web_Crawler\Pigo\obj\x86\Debug\Pigo.exe
+D:\Projects\Web_Crawler\Pigo\obj\x86\Debug\Pigo.pdb
